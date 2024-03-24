@@ -14,3 +14,4 @@ Create a new database naming "erisdb".
 Import the provided SQL file. The file is known as "erisdb.sql" located inside the extracted source code folder.
 Browse the Online Job Search System in a browser. i.e. http://localhost/Online-Job-Search-With-PHP-main(or the name of the folder you extracted it to)  for the job seekers and http://localhost/Online-Job-Search-With-PHP-main/admin for the admin side.
 To login the admin page, use username "admin" and password "admin".
+
